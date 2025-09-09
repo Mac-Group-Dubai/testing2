@@ -1,7 +1,7 @@
 # CODEOWNERS file
 
 # By default, require review from senior devs
-* @senior-dev-username
+* @pbritc
 
 # Example: API folder requires API lead
 /api/ @api-lead-username
